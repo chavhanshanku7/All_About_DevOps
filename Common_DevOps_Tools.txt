@@ -1,0 +1,25 @@
+Common DevOps Tools
+
+1.Version Control:
+
+Git, GitHub, GitLab, Bitbucket
+
+2.CI/CD:
+
+Jenkins, CircleCI, Travis CI, GitLab CI
+
+3.Configuration Management:
+
+Ansible, Puppet, Chef
+
+4.Containerization:
+
+Docker, Kubernetes
+
+5.Monitoring:
+
+Prometheus, Grafana, Nagios, Splunk
+
+6.Collaboration:
+
+Slack, Microsoft Teams, Jira
